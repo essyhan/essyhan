@@ -1,21 +1,22 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there!%20I'm%20Seoyeon%20(Esther)%20Han%20%F0%9F%91%8B&fontSize=40&fontAlignY=35&animation=twinkling" alt="Header" />
-</div>
+#  Hey! Esther here 👋 Welcome to my page🤗
 
-<div align="center">
-  <h3>Data Scientist | Storyteller | Human-Centered AI Enthusiast</h3>
-  <p><i>"Transforming chaotic, raw information into clear, impactful narratives to solve real-world problems."</i></p>
-</div>
 
----
 
-## 👩🏻‍💻 About Me
+Hello! I'm Seoyeon Han (I usually go by Esther)  😄
 
-- 🎓 **Incoming Master of Data Science** at Rice University (Fall 2026).
-- 🎓 B.A. in **Library and Information Science & Applied Artificial Intelligence** from Sungkyunkwan University (Feb. 2026) .
-- 💡 **Domain & Focus:** My core interest lies in the ethical application of AI and building human-centered data systems. I bring a meticulous, structured approach to data architecture and a highly analytical lens to problem-solving.
-- 🔬 **Healthcare Data Experience:** Gained firsthand understanding of healthcare data ecosystems by managing sensitive medical records and vaccination databases at a specialized clinic .
-- 🎧 **Fun Fact:** I do my absolute best coding and data modeling while listening to Epik High!
+
+
+I am an incoming Master of Data Science student at Rice University (Fall 2026), currently preparing for my next chapter in Houston, Texas. 
+
+
+
+I believe that data science is fundamentally about storytelling. I thrive on transforming chaotic, raw information into clear, impactful narratives that can solve real-world problems.
+
+
+
+As a proud SKKU alum with a dual bachelor's degree in Library & Information Science and Applied Artificial Intelligence, and an incoming master's student at Rice University, I bring a meticulous, structured approach to data architecture and a highly analytical lens to problem-solving. Whether I am tuning a machine learning model or organizing complex metadata, I strive to creatively uncover the underlying harmony in the data. 
+
+
 
 ---
 
@@ -36,55 +37,53 @@
   <img src="https://img.shields.io/badge/Autodesk%20Fusion%20360-F37021?style=flat-square&logo=autodesk&logoColor=white" alt="Fusion 360" />
 </div>
 
-> **Focus Areas:** Machine Learning, Natural Language Processing (NLP), Data Analysis & Visualization, Metadata Design .
+> **Focus Areas:** Machine Learning, Natural Language Processing (NLP), Data Analysis & Visualization, Metadata Design.
 
 ---
 
-## 🚀 Featured Projects & Research
 
-### 🧠 AI, NLP & Data Accessibility
-- **Digital Therapeutics (DTx) Publication:** Published research on using Generative AI to prevent online gambling addiction recurrence in the *Journal of the Korea Institute of Information and Communication Engineering* (2025) .
-- **SKKU NEWS TTS Service (Team Lead):** Developed a program to improve accessibility for visually impaired students by summarizing news and converting it into audio files using extractive text summarization .
-- **FoodMate Database (Team Lead):** Led the development of an application prototype and custom database to help individuals with food allergies verify ingredients using manual indexing and metadata design .
-- **Prometheus AI Hackathon (CTO & PM):** Led AI development for an application that analyzes shoe conditions from uploaded images to support pricing and resale decisions .
+### 🚀 Projects & Research
 
-### 📊 Data Analytics & Predictive Modeling
-- **Healthy Mobility Culture of Seoul:** Applied machine learning techniques to public urban mobility datasets to identify optimal bike-sharing station locations for improved urban transportation .
-- **Seoul Housing Survey Data Contest:** Developed a data-driven rental housing model using regression analysis to quantify the impact of neighborhood satisfaction, advancing to the contest finals .
-- **Hotel Reservation Analysis (Team Lead):** Analyzed hotel reservation data to identify key factors contributing to high cancellation rates and proposed data-driven strategies to improve booking efficiency .
-- **SKKU-UW iSchool Global Camp:** Collaborated on a comparative study of telemedicine accessibility in rural South Korea and the United States, analyzing digital literacy and co-creating a data-driven infographic .
+**AI, NLP & Application Development**
 
-### 🛡️ Cybersecurity
-- **CyberSEED 2024 CTF:** Competed as a representative of Penn State in a nationwide cybersecurity competition, finishing in the Top 15 by solving challenges in reverse engineering, cryptography, and network traffic analysis .
+*   **Digital Therapeutics (DTx) Publication:** Published research on using Generative AI to prevent online gambling addiction recurrence in [Journal of the Korea Institute of Information and Communication Engineering](https://openurl.ebsco.com/EPDB%3Agcd%3A6%3A6498262/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A184959254&crl=c&link_origin=scholar.google.com) 
 
----
+*   **SKKU NEWS TTS Service:** Developed a program to improve accessibility for visually impaired students by summarizing news and converting it into audio files using extractive text summarization.
 
-## 📈 GitHub Analytics
+*   **FoodMate Database:** Led the development of an application prototype and custom database to help individuals with food allergies verify ingredients by utilizing manual indexing and metadata design.
 
-<div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=essyhan&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=essyhan&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>
+*   **Prometheus AI Hackathon (Second Step):** Participated as a CTO for an application analyzing shoe conditions from images for a peer-to-peer appraisal platform using AI.
 
----
+*   **Maegyeong Media NEXT AI Hackathon:** Selected as one of four qualifying teams from SKKU to design and prototype an AI-driven solution in a fast-paced environment.
 
-## 📫 Let's Connect!
 
-I am always open to discussing data science, innovative AI applications, emerging tech trends, or potential collaborations 💬
 
-<div align="left">
-  <a href="mailto:essyhan@g.skku.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/seoyeon-han-769436353/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+**Data Analytics & Machine Learning**
 
-<br>
+*   **Healthy Mobility Culture of Seoul:** Applied machine learning to public urban mobility datasets to optimize bike-sharing station locations for improved urban transportation.
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=essyhan&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
+*   **Seoul Housing Survey Data Contest:** Developed a data-driven rental housing model using regression analysis to quantify the impact of neighborhood satisfaction, advancing to the contest finals.
+
+*   **Hotel Reservation Analysis:** Analyzed hotel reservation data to identify factors for high cancellation rates and proposed data-driven strategies to improve booking efficiency.
+
+*   **SKKU-UW iSchool Global Seminar:** Collaborated on a comparative study of telemedicine accessibility in rural South Korea and the United States, analyzing digital literacy and creating a data-driven infographic.
+
+*   **Real-world Clinical Data:** Managed sensitive medical records, vaccination databases, and clinic operations, gaining firsthand understanding of healthcare data ecosystems.
+
+
+
+**Cybersecurity**
+
+*   **CyberSEED2024 CTF:** Finished in the Top 15 in a nationwide cybersecurity competition, solving challenges in reverse engineering, cryptography, and network traffic analysis.
+
+
+
+
+
+### 📫 Let's Connect
+
+I am always open to discussing data science, innovative AI applications, discussing emerging tech trends or potential collaborations💬
+
+*   **Email:** [essyhan@g.skku.edu](mailto:essyhan@g.skku.edu), [sh273@rice.edu](mailto:sh273@rice.edu)
+
+*   **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/seoyeon-han-769436353/)
