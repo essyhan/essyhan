@@ -12,9 +12,9 @@
 ## 👩🏻‍💻 About Me
 
 - 🎓 **Incoming Master of Data Science** at Rice University (Fall 2026).
-- 🎓 B.A. in **Library and Information Science & Applied Artificial Intelligence** from Sungkyunkwan University (Feb. 2026)[cite: 1].
+- 🎓 B.A. in **Library and Information Science & Applied Artificial Intelligence** from Sungkyunkwan University (Feb. 2026) .
 - 💡 **Domain & Focus:** My core interest lies in the ethical application of AI and building human-centered data systems. I bring a meticulous, structured approach to data architecture and a highly analytical lens to problem-solving.
-- 🔬 **Healthcare Data Experience:** Gained firsthand understanding of healthcare data ecosystems by managing sensitive medical records and vaccination databases at a specialized clinic[cite: 1].
+- 🔬 **Healthcare Data Experience:** Gained firsthand understanding of healthcare data ecosystems by managing sensitive medical records and vaccination databases at a specialized clinic .
 - 🎧 **Fun Fact:** I do my absolute best coding and data modeling while listening to Epik High!
 
 ---
@@ -36,26 +36,26 @@
   <img src="https://img.shields.io/badge/Autodesk%20Fusion%20360-F37021?style=flat-square&logo=autodesk&logoColor=white" alt="Fusion 360" />
 </div>
 
-> **Focus Areas:** Machine Learning, Natural Language Processing (NLP), Data Analysis & Visualization, Metadata Design[cite: 1].
+> **Focus Areas:** Machine Learning, Natural Language Processing (NLP), Data Analysis & Visualization, Metadata Design .
 
 ---
 
 ## 🚀 Featured Projects & Research
 
 ### 🧠 AI, NLP & Data Accessibility
-- **Digital Therapeutics (DTx) Publication:** Published research on using Generative AI to prevent online gambling addiction recurrence in the *Journal of the Korea Institute of Information and Communication Engineering* (2025)[cite: 1].
-- **SKKU NEWS TTS Service (Team Lead):** Developed a program to improve accessibility for visually impaired students by summarizing news and converting it into audio files using extractive text summarization[cite: 1].
-- **FoodMate Database (Team Lead):** Led the development of an application prototype and custom database to help individuals with food allergies verify ingredients using manual indexing and metadata design[cite: 1].
-- **Prometheus AI Hackathon (CTO & PM):** Led AI development for an application that analyzes shoe conditions from uploaded images to support pricing and resale decisions[cite: 1].
+- **Digital Therapeutics (DTx) Publication:** Published research on using Generative AI to prevent online gambling addiction recurrence in the *Journal of the Korea Institute of Information and Communication Engineering* (2025) .
+- **SKKU NEWS TTS Service (Team Lead):** Developed a program to improve accessibility for visually impaired students by summarizing news and converting it into audio files using extractive text summarization .
+- **FoodMate Database (Team Lead):** Led the development of an application prototype and custom database to help individuals with food allergies verify ingredients using manual indexing and metadata design .
+- **Prometheus AI Hackathon (CTO & PM):** Led AI development for an application that analyzes shoe conditions from uploaded images to support pricing and resale decisions .
 
 ### 📊 Data Analytics & Predictive Modeling
-- **Healthy Mobility Culture of Seoul:** Applied machine learning techniques to public urban mobility datasets to identify optimal bike-sharing station locations for improved urban transportation[cite: 1].
-- **Seoul Housing Survey Data Contest:** Developed a data-driven rental housing model using regression analysis to quantify the impact of neighborhood satisfaction, advancing to the contest finals[cite: 1].
-- **Hotel Reservation Analysis (Team Lead):** Analyzed hotel reservation data to identify key factors contributing to high cancellation rates and proposed data-driven strategies to improve booking efficiency[cite: 1].
-- **SKKU-UW iSchool Global Camp:** Collaborated on a comparative study of telemedicine accessibility in rural South Korea and the United States, analyzing digital literacy and co-creating a data-driven infographic[cite: 1].
+- **Healthy Mobility Culture of Seoul:** Applied machine learning techniques to public urban mobility datasets to identify optimal bike-sharing station locations for improved urban transportation .
+- **Seoul Housing Survey Data Contest:** Developed a data-driven rental housing model using regression analysis to quantify the impact of neighborhood satisfaction, advancing to the contest finals .
+- **Hotel Reservation Analysis (Team Lead):** Analyzed hotel reservation data to identify key factors contributing to high cancellation rates and proposed data-driven strategies to improve booking efficiency .
+- **SKKU-UW iSchool Global Camp:** Collaborated on a comparative study of telemedicine accessibility in rural South Korea and the United States, analyzing digital literacy and co-creating a data-driven infographic .
 
 ### 🛡️ Cybersecurity
-- **CyberSEED 2024 CTF:** Competed as a representative of Penn State in a nationwide cybersecurity competition, finishing in the Top 15 by solving challenges in reverse engineering, cryptography, and network traffic analysis[cite: 1].
+- **CyberSEED 2024 CTF:** Competed as a representative of Penn State in a nationwide cybersecurity competition, finishing in the Top 15 by solving challenges in reverse engineering, cryptography, and network traffic analysis .
 
 ---
 
