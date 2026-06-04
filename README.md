@@ -1,88 +1,67 @@
-#  Hey! Esther here 👋 Welcome to my page🤗
+<!--
+README for GitHub profile repository.
+To show this on your GitHub profile, create a public repo named exactly like your GitHub username.
+Replace YOUR_GITHUB_USERNAME with your actual GitHub username.
+-->
 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:8B5CF6,100:F97316&height=180&section=header&text=Seoyeon%20%22Esther%22%20Han&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20AI%20%7C%20Metadata%20%7C%20Human-Centered%20Analytics&descAlignY=58&descSize=16" />
 
-Hello! I'm Seoyeon Han (I usually go by Esther)  😄
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&lines=Incoming+Master+of+Data+Science+Student+%40+Rice+University;SKKU+Alum+%7C+Library+%26+Information+Science+%2B+Applied+AI;Turning+chaotic+data+into+clear%2C+useful+stories)](https://git.io/typing-svg)
 
+<br>
 
+<a href="mailto:essyhan@g.skku.edu">
+  <img src="https://img.shields.io/badge/Email-essyhan%40g.skku.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="mailto:sh273@rice.edu">
+  <img src="https://img.shields.io/badge/Rice_Email-sh273%40rice.edu-00205B?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/seoyeon-han-769436353/">
+  <img src="https://img.shields.io/badge/LinkedIn-Seoyeon%20Han-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-I am an incoming Master of Data Science student at Rice University (Fall 2026), currently preparing for my next chapter in Houston, Texas. 
-
-
-
-I believe that data science is fundamentally about storytelling. I thrive on transforming chaotic, raw information into clear, impactful narratives that can solve real-world problems.
-
-
-
-As a proud SKKU alum with a dual bachelor's degree in Library & Information Science and Applied Artificial Intelligence, and an incoming master's student at Rice University, I bring a meticulous, structured approach to data architecture and a highly analytical lens to problem-solving. Whether I am tuning a machine learning model or organizing complex metadata, I strive to creatively uncover the underlying harmony in the data. 
-
----
-### 📫 Let's Connect
-
-I am always open to discussing data science, innovative AI applications, discussing emerging tech trends or potential collaborations💬
-
-*   **Email:** [essyhan@g.skku.edu](mailto:essyhan@g.skku.edu), [sh273@rice.edu](mailto:sh273@rice.edu)
-
-*   **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/seoyeon-han-769436353/)
-
-
----
-
-## 🛠️ Tech Stack & Core Competencies
-
-<div align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <br>
-  <!-- Data & Tools -->
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="PowerBI" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Autodesk%20Fusion%20360-F37021?style=flat-square&logo=autodesk&logoColor=white" alt="Fusion 360" />
 </div>
 
-> **Focus Areas:** Machine Learning, Natural Language Processing (NLP), Data Analysis & Visualization, Metadata Design.
+---
+
+## Hi, I'm Esther 👋
+
+I am an incoming **Master of Data Science student at Rice University** for Fall 2026, currently preparing for my next chapter in Houston, Texas.
+
+To me, data science is fundamentally about **storytelling**: transforming chaotic, raw information into clear, trustworthy narratives that help people make better decisions. My background in **Library & Information Science** and **Applied Artificial Intelligence** shaped the way I work: structured with data, careful with meaning, and curious about the systems behind every dataset.
+
+I enjoy building at the intersection of:
+
+- **Machine Learning and NLP**
+- **Data analysis, visualization, and decision support**
+- **Metadata design and data architecture**
+- **Healthcare, accessibility, and human-centered AI**
+- **Responsible AI applications for real-world problems**
 
 ---
 
+## About Me
 
-### 🚀 Projects & Research
+```python
+class EstherHan:
+    def __init__(self):
+        self.name = "Seoyeon Han"
+        self.nickname = "Esther"
+        self.education = {
+            "incoming": "MDS @ Rice University, Fall 2026",
+            "undergraduate": "SKKU, Library & Information Science + Applied AI"
+        }
+        self.interests = [
+            "machine learning",
+            "natural language processing",
+            "data storytelling",
+            "metadata systems",
+            "healthcare data",
+            "AI for accessibility"
+        ]
+        self.current_focus = "Preparing for graduate study and building data science portfolio projects"
 
-**AI, NLP & Application Development**
-
-*   **Digital Therapeutics (DTx) Publication:** Published research on using Generative AI to prevent online gambling addiction recurrence in [Journal of the Korea Institute of Information and Communication Engineering](https://openurl.ebsco.com/EPDB%3Agcd%3A6%3A6498262/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A184959254&crl=c&link_origin=scholar.google.com) 
-
-*   **SKKU NEWS TTS Service:** Developed a program to improve accessibility for visually impaired students by summarizing news and converting it into audio files using extractive text summarization.
-
-*   **FoodMate Database:** Led the development of an application prototype and custom database to help individuals with food allergies verify ingredients by utilizing manual indexing and metadata design.
-
-*   **Prometheus AI Hackathon (Second Step):** Participated as a CTO for an application analyzing shoe conditions from images for a peer-to-peer appraisal platform using AI.
-
-*   **Maegyeong Media NEXT AI Hackathon:** Selected as one of four qualifying teams from SKKU to design and prototype an AI-driven solution in a fast-paced environment.
-
-
-
-**Data Analytics & Machine Learning**
-
-*   **Healthy Mobility Culture of Seoul:** Applied machine learning to public urban mobility datasets to optimize bike-sharing station locations for improved urban transportation.
-
-*   **Seoul Housing Survey Data Contest:** Developed a data-driven rental housing model using regression analysis to quantify the impact of neighborhood satisfaction, advancing to the contest finals.
-
-*   **Hotel Reservation Analysis:** Analyzed hotel reservation data to identify factors for high cancellation rates and proposed data-driven strategies to improve booking efficiency.
-
-*   **SKKU-UW iSchool Global Seminar:** Collaborated on a comparative study of telemedicine accessibility in rural South Korea and the United States, analyzing digital literacy and creating a data-driven infographic.
-
-*   **Real-world Clinical Data:** Managed sensitive medical records, vaccination databases, and clinic operations, gaining firsthand understanding of healthcare data ecosystems.
-
-
-
-**Cybersecurity**
-
-*   **CyberSEED2024 CTF:** Finished in the Top 15 in a nationwide cybersecurity competition, solving challenges in reverse engineering, cryptography, and network traffic analysis.
-
-
-
+    def mission(self):
+        return "Turn complex data into structured, ethical, and impactful stories."
