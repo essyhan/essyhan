@@ -25,7 +25,7 @@ Replace YOUR_GITHUB_USERNAME with your actual GitHub username.
 
 ---
 
-## Hi, I'm Esther 👋
+## Hi there, I'm Esther 👋
 
 I am an incoming **Master of Data Science student at Rice University** for Fall 2026, currently preparing for my next chapter in Houston, Texas.
 
