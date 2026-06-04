@@ -28,8 +28,6 @@ I am always open to discussing data science, innovative AI applications, discuss
 
 ---
 
----
-
 ## 🛠️ Tech Stack & Core Competencies
 
 <div align="left">
