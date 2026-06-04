@@ -16,7 +16,17 @@ I believe that data science is fundamentally about storytelling. I thrive on tra
 
 As a proud SKKU alum with a dual bachelor's degree in Library & Information Science and Applied Artificial Intelligence, and an incoming master's student at Rice University, I bring a meticulous, structured approach to data architecture and a highly analytical lens to problem-solving. Whether I am tuning a machine learning model or organizing complex metadata, I strive to creatively uncover the underlying harmony in the data. 
 
+---
+### 📫 Let's Connect
 
+I am always open to discussing data science, innovative AI applications, discussing emerging tech trends or potential collaborations💬
+
+*   **Email:** [essyhan@g.skku.edu](mailto:essyhan@g.skku.edu), [sh273@rice.edu](mailto:sh273@rice.edu)
+
+*   **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/seoyeon-han-769436353/)
+
+
+---
 
 ---
 
@@ -78,12 +88,3 @@ As a proud SKKU alum with a dual bachelor's degree in Library & Information Scie
 
 
 
-
-
-### 📫 Let's Connect
-
-I am always open to discussing data science, innovative AI applications, discussing emerging tech trends or potential collaborations💬
-
-*   **Email:** [essyhan@g.skku.edu](mailto:essyhan@g.skku.edu), [sh273@rice.edu](mailto:sh273@rice.edu)
-
-*   **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/seoyeon-han-769436353/)
