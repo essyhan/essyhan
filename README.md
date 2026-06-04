@@ -1,62 +1,74 @@
+<!--
+README for GitHub profile repository.
+Replace YOUR_GITHUB_USERNAME with your actual GitHub username.
+-->
+
 <div align="center">
 
-# Hi, I'm Seoyeon "Esther" Han 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:8B5CF6,100:F97316&height=180&section=header&text=Seoyeon%20%22Esther%22%20Han&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20AI%20%7C%20Metadata%20%7C%20Human-Centered%20Analytics&descAlignY=58&descSize=16" />
 
-### Incoming Master of Data Science Student @ Rice University  
-### Data Science · AI · NLP · Metadata Design · Human-Centered Analytics
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&lines=Incoming+Master+of+Data+Science+Student+%40+Rice+University;SKKU+Alum+%7C+Library+%26+Information+Science+%2B+Applied+AI;Turning+chaotic+data+into+clear%2C+useful+stories)](https://git.io/typing-svg)
 
-<p>
-  <a href="mailto:essyhan@g.skku.edu">
-    <img src="https://img.shields.io/badge/Email-essyhan%40g.skku.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="mailto:sh273@rice.edu">
-    <img src="https://img.shields.io/badge/Rice_Email-sh273%40rice.edu-00205B?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/seoyeon-han-769436353/">
-    <img src="https://img.shields.io/badge/LinkedIn-Seoyeon%20Han-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<br>
+
+<a href="mailto:essyhan@g.skku.edu">
+  <img src="https://img.shields.io/badge/Email-essyhan%40g.skku.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="mailto:sh273@rice.edu">
+  <img src="https://img.shields.io/badge/Rice_Email-sh273%40rice.edu-00205B?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/seoyeon-han-769436353/">
+  <img src="https://img.shields.io/badge/LinkedIn-Seoyeon%20Han-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## About Me
+## Hi, I'm Esther 👋
 
 I am an incoming **Master of Data Science student at Rice University** for Fall 2026, currently preparing for my next chapter in Houston, Texas.
 
 To me, data science is fundamentally about **storytelling**: transforming chaotic, raw information into clear, trustworthy narratives that help people make better decisions. My background in **Library & Information Science** and **Applied Artificial Intelligence** shaped the way I work: structured with data, careful with meaning, and curious about the systems behind every dataset.
 
-<table>
-  <tr>
-    <td><b>Name</b></td>
-    <td>Seoyeon Han, also known as Esther</td>
-  </tr>
-  <tr>
-    <td><b>Incoming Program</b></td>
-    <td>Master of Data Science, Rice University, Fall 2026</td>
-  </tr>
-  <tr>
-    <td><b>Undergraduate Background</b></td>
-    <td>Library & Information Science + Applied Artificial Intelligence, SKKU</td>
-  </tr>
-  <tr>
-    <td><b>Core Interests</b></td>
-    <td>Machine Learning, NLP, Data Visualization, Metadata Design, Healthcare Data, Responsible AI</td>
-  </tr>
-  <tr>
-    <td><b>Current Focus</b></td>
-    <td>Building a stronger data science portfolio and preparing for graduate study</td>
-  </tr>
-  <tr>
-    <td><b>Personal Mission</b></td>
-    <td>Turn complex data into structured, ethical, and impactful stories.</td>
-  </tr>
-</table>
+I enjoy building at the intersection of:
+
+- **Machine Learning and NLP**
+- **Data analysis, visualization, and decision support**
+- **Metadata design and data architecture**
+- **Healthcare, accessibility, and human-centered AI**
+- **Responsible AI applications for real-world problems**
 
 ---
 
-## Tech Stack & Core Competencies
+## About Me
+
+```python
+class EstherHan:
+    def __init__(self):
+        self.name = "Seoyeon Han"
+        self.nickname = "Esther"
+        self.education = {
+            "incoming": "MDS @ Rice University, Fall 2026",
+            "undergraduate": "SKKU, Library & Information Science + Applied AI"
+        }
+        self.interests = [
+            "machine learning",
+            "natural language processing",
+            "data storytelling",
+            "metadata systems",
+            "healthcare data",
+            "AI for accessibility"
+        ]
+        self.current_focus = "Preparing for graduate study and building data science portfolio projects"
+
+    def mission(self):
+        return "Turn complex data into structured, ethical, and impactful stories."
+```
+
+---
+
+## Tech Stack
 
 ### Languages
 
@@ -71,7 +83,7 @@ To me, data science is fundamentally about **storytelling**: transforming chaoti
 
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Visualization-0EA5E9?style=flat-square&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
@@ -80,58 +92,58 @@ To me, data science is fundamentally about **storytelling**: transforming chaoti
 ### Tools & Systems
 
 <p>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Autodesk%20Fusion%20360-F37021?style=flat-square&logo=autodesk&logoColor=white" />
 </p>
 
 ---
 
-## Focus Areas
+## Featured Work
 
-| Area | What I Care About |
-|---|---|
-| Machine Learning | Building models that are useful, interpretable, and connected to real-world decisions |
-| NLP | Summarization, text understanding, information access, and language-based AI applications |
-| Data Visualization | Turning analytical results into clear and persuasive visual narratives |
-| Metadata Design | Organizing information so that data can be found, trusted, and reused |
-| Healthcare Data | Understanding clinical and health-related data ecosystems with care and responsibility |
-| Human-Centered AI | Designing AI applications that support people, accessibility, and ethical outcomes |
+> I am currently organizing selected projects into public repositories with reproducible notebooks, clear documentation, and project writeups.
 
----
-
-## Projects & Research
-
-### AI, NLP & Application Development
-
-| Project | Description |
-|---|---|
-| **Digital Therapeutics Publication** | Published research on using generative AI to help prevent online gambling addiction recurrence. [Read publication](https://openurl.ebsco.com/EPDB%3Agcd%3A6%3A6498262/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A184959254&crl=c&link_origin=scholar.google.com) |
-| **SKKU NEWS TTS Service** | Developed a program to improve accessibility for visually impaired students by summarizing news and converting it into audio files using extractive text summarization. |
-| **FoodMate Database** | Led the development of an application prototype and custom database to help individuals with food allergies verify ingredients through manual indexing and metadata design. |
-| **Prometheus AI Hackathon** | Participated as CTO for an application analyzing shoe conditions from images for a peer-to-peer appraisal platform using AI. |
-| **Maegyeong Media NEXT AI Hackathon** | Selected as one of four qualifying teams from SKKU to design and prototype an AI-driven solution in a fast-paced environment. |
-
-### Data Analytics & Machine Learning
-
-| Project | Description |
-|---|---|
-| **Healthy Mobility Culture of Seoul** | Applied machine learning to public urban mobility datasets to optimize bike-sharing station locations for improved urban transportation. |
-| **Seoul Housing Survey Data Contest** | Developed a data-driven rental housing model using regression analysis to quantify the impact of neighborhood satisfaction, advancing to the contest finals. |
-| **Hotel Reservation Analysis** | Analyzed hotel reservation data to identify factors behind high cancellation rates and proposed data-driven strategies to improve booking efficiency. |
-| **SKKU-UW iSchool Global Seminar** | Collaborated on a comparative study of telemedicine accessibility in rural South Korea and the United States, analyzing digital literacy and creating a data-driven infographic. |
-| **Real-world Clinical Data** | Managed sensitive medical records, vaccination databases, and clinic operations, gaining firsthand understanding of healthcare data ecosystems. |
-
-### Cybersecurity
-
-| Project | Description |
-|---|---|
-| **CyberSEED2024 CTF** | Finished in the Top 15 in a nationwide cybersecurity competition, solving challenges in reverse engineering, cryptography, and network traffic analysis. |
+| Area | Project | What I Worked On |
+|---|---|---|
+| Generative AI + Healthcare | **Digital Therapeutics Publication** | Published research on using generative AI to help prevent online gambling addiction recurrence. |
+| NLP + Accessibility | **SKKU NEWS TTS Service** | Built a workflow to summarize campus news and convert it into audio for visually impaired students. |
+| Database Design | **FoodMate Database** | Led application prototype and custom database design for food allergy ingredient verification. |
+| Computer Vision + Product AI | **Prometheus AI Hackathon** | Served as CTO for an AI-based peer-to-peer shoe condition appraisal platform. |
+| Urban Data Science | **Healthy Mobility Culture of Seoul** | Applied machine learning to public mobility data to optimize bike-sharing station locations. |
+| Housing Analytics | **Seoul Housing Survey Data Contest** | Built a regression-based rental housing model and advanced to the contest finals. |
+| Business Analytics | **Hotel Reservation Analysis** | Analyzed cancellation drivers and proposed strategies for booking efficiency. |
+| Cybersecurity | **CyberSEED2024 CTF** | Finished Top 15 nationally, solving reverse engineering, cryptography, and traffic analysis challenges. |
 
 ---
 
-## Data Science Philosophy
+## Research & Publication
+
+- **Digital Therapeutics Research:** Published research on using generative AI to prevent recurrence of online gambling addiction  
+  [Read publication](https://openurl.ebsco.com/EPDB%3Agcd%3A6%3A6498262/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A184959254&crl=c&link_origin=scholar.google.com)
+
+---
+
+## GitHub Snapshot
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## What I Value in Data Science
 
 | Principle | What It Means To Me |
 |---|---|
@@ -152,42 +164,10 @@ To me, data science is fundamentally about **storytelling**: transforming chaoti
 
 ---
 
-## GitHub Activity
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=essyhan&show_icons=true&theme=default&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=essyhan&layout=compact&theme=default&hide_border=true" height="165" />
+### "Data becomes powerful when it becomes understandable."
 
-</div>
-
-<!--
-If the GitHub Activity images above ever show as unavailable, delete this whole section.
-The rest of the README will still look polished because it does not depend on image generators.
--->
-
----
-
-## Let's Connect
-
-I am always open to discussing data science, innovative AI applications, emerging technology trends, research ideas, and potential collaborations.
-
-<p>
-  <a href="mailto:essyhan@g.skku.edu">
-    <img src="https://img.shields.io/badge/Email-essyhan%40g.skku.edu-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="mailto:sh273@rice.edu">
-    <img src="https://img.shields.io/badge/Rice-sh273%40rice.edu-00205B?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/seoyeon-han-769436353/">
-    <img src="https://img.shields.io/badge/LinkedIn-Seoyeon%20Han-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-### Data becomes powerful when it becomes understandable.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,50:8B5CF6,100:0EA5E9&height=120&section=footer" />
 
 </div>
